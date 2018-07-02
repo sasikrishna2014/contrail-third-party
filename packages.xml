@@ -457,11 +457,11 @@
     <name>Open vSwitch version 2.3.0</name>
     <urls>
       <url>{{ site_mirror }}/contrail-third-party/o/openvswitch-2.3.0.tar.gz</url>
-      <url canonical="true">http://openvswitch.org/releases/openvswitch-2.3.0.tar.gz</url>
+      <url canonical="true">https://raw.githubusercontent.com/sasikrishna2014/third_party/master/openvswitch-2.3.0.tar.gz</url>
     </urls>
     <local-filename>openvswitch-2.3.0.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>9c4d1471a56718132e0157af1bfc9310</md5>
+    <md5>a25015a98234f58abdc74bbe855821dd</md5>
     <patches>
       <patch strip="1">openvswitch.diff</patch>
     </patches>
@@ -469,12 +469,12 @@
   <package>
     <name>Go 1.8</name>
     <urls>
-      <url>{{ site_mirror }}/contrail-third-party/g/go1.8.linux-amd64.tar.gz</url>
-      <url canonical="true">https://storage.googleapis.com/golang/go1.8.linux-amd64.tar.gz</url>
+      <url>{{ site_mirror }}/contrail-third-party/g/go1.8.linux-ppc64le.tar.gz</url>
+      <url canonical="true">https://storage.googleapis.com/golang/go1.8.linux-ppc64le.tar.gz</url>
     </urls>
-    <local-filename>go1.8.linux-amd64.tar.gz</local-filename>
+    <local-filename>go1.8.linux-ppc64le.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>d0f6de92ccef6489a0d9b8efbb8f577f</md5>
+    <md5>8fe302478a6344c07e741f48d353b69c</md5>
   </package>
   <package>
     <name>Cni Go Deps</name>
@@ -489,11 +489,11 @@
     <name>IPFIX library</name>
     <urls>
      <url>{{ site_mirror }}/contrail-third-party/l/libipfix_110209.tgz</url>
-     <url canonical="true">https://sourceforge.net/projects/libipfix/files/libipfix/libipfix_110209.tgz/download</url>
+     <url canonical="true">https://raw.githubusercontent.com/sasikrishna2014/third_party/master/libipfix_110224.tgz/download</url>
     </urls>
-    <local-filename>libipfix_110209.tgz</local-filename>
+    <local-filename>libipfix_110224.tgz</local-filename>
     <format>tgz</format>
-    <md5>35761deb685c7b4e15121454eb51da0c</md5>
+    <md5>7a1c5477c7e56d031665a26ac5571aeb</md5>
     <patches>
       <patch strip="1">libipfix_patch1.diff</patch>
     </patches>

@@ -375,7 +375,7 @@
     <url>https://github.com/sasikrishna2014/third_party/raw/master/openvswitch-2.3.0.tar.gz</url>
     <local-filename>openvswitch-2.3.0.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>fe5c7287cb4f3a5cd7b1a90865a735d9</md5>
+    <md5>8f2fb45b805f8761c07f858ae9e00e0d</md5>
     <patches>
       <patch strip="1">openvswitch.diff</patch>
     </patches>

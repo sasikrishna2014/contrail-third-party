@@ -372,20 +372,20 @@
   </package>
   <package>
     <name>Open vSwitch version 2.3.0</name>
-    <url>http://openvswitch.org/releases/openvswitch-2.3.0.tar.gz</url>
+    <url>https://github.com/sasikrishna2014/third_party/blob/master/openvswitch-2.3.0.tar.gz</url>
     <local-filename>openvswitch-2.3.0.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>9c4d1471a56718132e0157af1bfc9310</md5>
+    <md5>a25015a98234f58abdc74bbe855821dd</md5>
     <patches>
       <patch strip="1">openvswitch.diff</patch>
     </patches>
   </package>
   <package>
     <name>Go 1.8</name>
-    <url>https://storage.googleapis.com/golang/go1.8.linux-amd64.tar.gz</url>
-    <local-filename>go1.8.linux-amd64.tar.gz</local-filename>
+    <url>https://storage.googleapis.com/golang/go1.8.linux-ppc64le.tar.gz</url>
+    <local-filename>go1.8.linux-ppc64le.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>d0f6de92ccef6489a0d9b8efbb8f577f</md5>
+    <md5>8fe302478a6344c07e741f48d353b69c</md5>
   </package>
   <package>
     <name>Cni Go Deps</name>

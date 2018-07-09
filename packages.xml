@@ -327,7 +327,7 @@
     <name>ISC Bind</name>
     <url>https://github.com/sasikrishna2014/third_party/raw/master/bind-9.10.4-P2.tar.gz</url>
     <format>tgz</format>
-    <md5>69311a8c05b40b839ec6e7d82193e8ab</md5>
+    <md5>50163d229020c48929c84bec5b0068d7</md5>
     <patches>
       <patch strip="1">bind-9.10.4-P2-patch1.diff</patch>
       <patch strip="1">bind-9.10.4-P2-patch2.diff</patch>

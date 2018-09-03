@@ -60,7 +60,7 @@
     <platform>
       <exclude>
 	<distribution>
-	  <name>ubuntu</name>
+	  <name>ubuntu</name>configuring
 	  <version>14.04+</version>
 	</distribution>
 	<distribution>
@@ -77,7 +77,7 @@
 	</distribution>
       </exclude>
     </platform>
-  </package>
+  </package>configuring
   <package>
     <name>Google C++ Testing Framework 1.6.0</name>
     <url>https://github.com/Juniper/contrail-third-party-cache/raw/master/googlecode/googletest-release-1.6.0.zip</url>
@@ -372,11 +372,8 @@
   </package>
   <package>
     <name>Open vSwitch version 2.5.4</name>
-    <urls>
-      <url>{{ site_mirror }}/contrail-third-party/o/openvswitch-2.5.4.orig.tar.gz</url>
-      <url canonical="true">https://github.com/sasikrishna2014/third_party/raw/master/openvswitch_2.5.4.orig.tar.gz</url>
-    </urls>
-    <local-filename>https://github.com/sasikrishna2014/third_party/raw/master/openvswitch_2.5.4.orig.tar.gz</local-filename>
+    <url canonical="true">https://github.com/sasikrishna2014/third_party/raw/master/openvswitch_2.5.4.orig.tar.gz</url>
+    <local-filename>openvswitch_2.5.4.orig.tar.gz</local-filename>
     <format>tgz</format>
     <md5>c42468bd982b359ee01dc7feceec144b</md5>
   </package>

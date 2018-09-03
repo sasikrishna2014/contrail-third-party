@@ -454,17 +454,14 @@
     </patches>
   </package>
   <package>
-    <name>Open vSwitch version 2.3.0</name>
+    <name>Open vSwitch version 2.5.4</name>
     <urls>
-      <url>{{ site_mirror }}/contrail-third-party/o/openvswitch-2.3.0.tar.gz</url>
-      <url canonical="true">https://raw.githubusercontent.com/sasikrishna2014/third_party/master/openvswitch-2.3.0.tar.gz</url>
+      <url>{{ site_mirror }}/contrail-third-party/o/openvswitch-2.5.4.orig.tar.gz</url>
+      <url canonical="true">https://github.com/sasikrishna2014/third_party/raw/master/openvswitch_2.5.4.orig.tar.gz</url>
     </urls>
-    <local-filename>openvswitch-2.3.0.tar.gz</local-filename>
+    <local-filename>https://github.com/sasikrishna2014/third_party/raw/master/openvswitch_2.5.4.orig.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>a25015a98234f58abdc74bbe855821dd</md5>
-    <patches>
-      <patch strip="1">openvswitch.diff</patch>
-    </patches>
+    <md5>c42468bd982b359ee01dc7feceec144b</md5>
   </package>
   <package>
     <name>Go 1.8</name>

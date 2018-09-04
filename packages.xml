@@ -372,10 +372,10 @@
   </package>
   <package>
     <name>Open vSwitch version 2.5.4</name>
-    <url canonical="true">https://github.com/sasikrishna2014/third_party/raw/master/openvswitch_2.5.4.orig.tar.gz</url>
-    <local-filename>openvswitch_2.5.4.orig.tar.gz</local-filename>
+    <url canonical="true">https://github.com/sasikrishna2014/third_party/raw/master/openvswitch_2.5.4.tar.gz</url>
+    <local-filename>openvswitch_2.5.4.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>c42468bd982b359ee01dc7feceec144b</md5>
+    <md5>5a1bb525ce63e233c15fc09ed609cb5b</md5>
   </package>
   <package>
     <name>Go 1.8</name>

@@ -375,7 +375,7 @@
     <url canonical="true">https://github.com/sasikrishna2014/third_party/raw/master/openvswitch-2.5.4.tar.gz</url>
     <local-filename>openvswitch-2.5.4.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>2deb5b19a62b3ea3aa55bfad5b4e8c9b</md5>
+    <md5>67fff5fef19b6f5a0a8c47d3afc6f890</md5>
   </package>
   <package>
     <name>Go 1.8</name>
